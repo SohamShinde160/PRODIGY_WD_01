@@ -1,4 +1,5 @@
-# PRODIGY_WD_01
-Discord Clone - Responsive Landing Page using html , css , js and tailwind css
+# Discord-Clone
+Discord Website Clone using using Html css and Tailwindcss . {frontend website) Responsive Website 
 
-🔗:- https://clone-discoord.netlify.app/
+
+🔗:-  https://clone-discoord.netlify.app/
